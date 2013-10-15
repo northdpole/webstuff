@@ -1,0 +1,46 @@
+.wsp-pages-list ul {
+    list-style:none;
+}
+
+.wsp-pages-list li {
+    list-style:none;
+    margin-left:20%;
+}
+
+.wsp-pages-title {
+	    list-style:none;
+	    margin-left:15%;
+}
+
+.wsp-posts-list{
+	    list-style:none;
+	    margin-left:15%;
+}
+
+.wsp-posts-list +ul {
+    list-style:none;
+    margin-left:15%
+}
+
+.wsp-post+ul {
+
+	    list-style:none;
+	    margin-left:7%;
+}
+
+.wsp-post {
+	    list-style:none;
+	    margin-left:11%;
+}	    
+
+.wsp-category-title +ul {
+    list-style:none;
+}
+
+
+
+
+
+
+
+

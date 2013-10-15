@@ -1,0 +1,406 @@
+``#megaUber > li:nth-child(4) {
+    background: none repeat scroll 0 0 rgba(116, 197, 147, 0.35);
+}
+#head-area {
+    display: none;
+}
+.TwitterWidget {
+}
+.entry-content .content-text {
+    color: #333333;
+    display: inline-block;
+    float: left;
+    font-family: Ubuntu Light,sans-serif;
+    font-size: 0.75em;
+    line-height: 1.6em;
+    margin: 3% 1% 3.4% 3.2%;
+    overflow: hidden;
+    text-align: left;
+    width: 50.9%;
+}
+#facebooklikebox-2 {
+    display: inline-block;
+    float: left;
+    margin-left: 4.4%;
+    margin-right: 3.4%;
+    margin-top: 3.4%;
+    width:45%
+}
+#twitter_widg {
+    display: inline-block;
+    float: right;
+    margin-left: 3.4%;
+    margin-right: 3.4%;
+    margin-top: 3.4%;
+}
+#utub {
+    display: inline-block;
+    float: left;
+    margin-left: 5%;
+    overflow: hidden;
+    width: 95%;
+    padding-bottom:5%;
+}
+#utub .ytcplayer {
+    float: left;
+    width: 45%;
+}
+#utub .ytchagallery {
+    margin-right: 3%;
+    display: inline-block;
+    float: right;
+    overflow:auto;
+    width: 50%;
+}
+#utub ul.ytchagallery.ytccf{
+margin-top:6%!important;
+}
+.ytcplay {
+    height: 114px !important;
+    width: 145px !important;
+}
+#titleimg {
+    margin-bottom: -7%;
+    margin-left: 5%;
+    margin-top: 7%;
+}
+.commentlist {
+    display: none;
+    height: 12.2%;
+    left: 83%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 2%;
+    width: 15%;
+}
+#comments {
+    display: none;
+}
+.comment-meta .commentmetadata {
+    display: none;
+}
+.widgettitle {
+    text-align: center;
+}
+.participate_social {
+    overflow: auto;
+}
+#twitter {
+}
+#facebook {
+}
+#pinterest {
+}
+#pinsocial {
+    display: inline-block;
+    float: right;
+    overflow: auto;
+    width: 57%;
+}
+.ytcmore {
+	display:inline;
+    float:left;
+    margin-left:5%;
+}
+.widgets_on_page ul .easy-pinterest {
+    display: block;
+    margin: auto;
+}
+
+
+/*dika mou media!!*/
+@media screen and (min-width: 1920px){
+#titleimg {
+    margin-bottom: -6%;
+}
+#twitter_widg {
+    margin-right: 7.4%;
+    }
+#facebooklikebox-2{
+    margin-left: 7.4%;
+    }
+
+
+}
+@media screen and (min-width: 1980px){
+#titleimg {
+    margin-bottom: -6%;
+}
+#twitter_widg {
+    margin-right: 6.4%;
+}
+#facebooklikebox-2 {
+    margin-left: 14.4%;
+}
+#facebook #facebook_status_box{
+	width:400px;
+}
+#twitter #wdtf-iframe{
+	width:400px;	
+}
+}
+@media screen and (max-width:1400px){
+#facebooklikebox-2{width:40%;}
+}
+@media screen and (max-width: 1200px){
+#facebooklikebox-2,#twitter_widg{
+	margin:auto;
+	margin-bottom:3.4%;
+	overflow:hidden;
+}
+}
+@media screen and (max-width: 1170px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:270px;
+}
+.widget_youtubechannelgallery_widget ul.ytchagallery.ytccf li .ytcliinner{
+	padding:0;
+	width:90%;
+}
+}
+@media screen and (max-width: 1100px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:260px;
+}
+}
+@media screen and (max-width: 1050px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:250px;
+}
+}
+@media screen and (max-width: 1000px){
+#facebooklikebox-2,#twitter #wdtf-iframe{
+	width:400px;
+	margin:0 auto%;
+}
+}
+@media screen and (max-width: 900px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:300px;
+	margin:0 18.4%;
+}
+}
+@media screen and (max-width: 800px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:300px;
+	margin:0 13.4%;
+}
+#twitter_widg,#facebooklikebox-2{
+	display:block;
+	float:none;
+	clear:both;
+}
+}
+@media screen and (max-width: 700px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	width:220px;
+	margin:0 18.4%;
+}
+}
+@media screen and (max-width: 500px){
+
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	margin:0 auto;
+}
+}
+@media screen and (max-width: 450px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	/*margin:0 18.4%;*/
+	width:300px;
+}/*
+#content {
+    left: -17.7%;
+    width: 133.8%;
+}*/
+}
+@media screen and (max-width: 400px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	/*margin:0 8.4%;*/
+}
+}
+@media screen and (max-width: 360px){
+#facebook #facebook_status_box,#twitter #wdtf-iframe{
+	/*margin:0 3.4%;*/
+	width:200px;
+}
+}
+/*
+@media screen and (max-width: 1449px){
+	#pinsocial {
+		width: 48%;
+		float:left;
+		padding:left:3%;
+	}
+	#pinsocial ul.easy-pinterest ol{
+		width:70px;
+		height:70px;
+	}
+#utub{width:56%;}
+#utub .ytcplayer {width:52%;}
+.ytcmore {
+    display: block !important;
+    padding-left: 8% !important;
+}
+.commentlist {
+    display: block;
+    height: 15.5%;
+    left: 78%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 3%;
+    width: 18%;
+}
+}
+
+@media screen and (max-width: 1300px){
+	.widgets_on_page ul .easy-pinterest {
+		display: block;
+		margin: auto auto auto 10%;
+	}
+	#pinsocial {
+		width: 48%;
+		float:left;
+	}
+	#pinsocial ul.easy-pinterest ol{
+		width:70px;
+		height:70px;
+	}
+
+#utub{width:52%;}
+#utub .ytcplayer {width:45%;}
+.ytcmore {
+    display: block !important;
+    padding-left: 8% !important;
+}
+.commentlist {
+    display: block;
+    height: 12.5%;
+    left: 78%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 2%;
+    width: 18%;
+}
+}
+@media screen and (max-width: 1280px){
+#pinsocial {
+	float:left;
+        width: 47%;
+
+}
+#utub{width:52%;}
+#utub .ytcplayer {width:45%;}
+.ytcmore {
+    display: block !important;
+    padding-left: 8% !important;
+}
+.commentlist {
+    display: block;
+    height: 12.5%;
+    left: 78%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 3%;
+    width: 18%;
+}
+}
+
+@media screen and (max-width: 1250px){
+	#pinsocial {width: 50%;}
+	#facebooklikebox-2{margin-right:0;}
+}
+
+@media screen and (max-width: 1220px){
+	#pinsocial {width: 50%;}
+}
+
+@media screen and (max-width: 1200px){
+#pinsocial {
+	float:left;
+        width: 47%;
+	margin-left:10%;
+	padding:5%;
+
+}
+#utub{width:52%;}
+#utub .ytcplayer {width:45%;}
+.ytcmore {
+    display: block !important;
+    padding-left: 8% !important;
+}
+.commentlist {
+    display: block;
+    height: 15.5%;
+    left: 78%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 3%;
+    width: 18%;
+}
+}
+
+
+@media screen and (max-width: 1191px){
+#pinsocial {
+	float:left;
+        width: 43%;
+	margin-left:6%;
+	padding:5%;
+
+}
+#utub{width:54%;}
+#utub .ytcplayer {width:45%;}
+.ytcmore {
+    display: block !important;
+    padding-left: 8% !important;
+}
+.commentlist {
+    display: block;
+    height: 14.5%;
+    left: 78%;
+    list-style: none outside none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    top: 3%;
+    width: 18%;
+}
+}
+
+@media screen and (max-width: 800px){
+	.part-widg {
+		clear:both!important;
+		float:none!important;
+		display: block !important;
+	}
+	#twitter_widg{margin:0 31%!important;}
+	#utub{width:100%;}
+	.commentlist {
+   	 display: block;
+   	 height: 9.5%;
+   	 left: 78%;
+   	 list-style: none outside none;
+  	  overflow-x: hidden;
+  	  overflow-y: scroll;
+   	 position: absolute;
+   	 top: 26%;
+   	 width: 14%;
+	}
+	#utub .ytcplayer {margin: auto;}
+	#facebook_status_box{margin:auto!important;}
+	#pinsocial {
+		margin: auto;
+		width: 100%;
+	}
+}
+*/

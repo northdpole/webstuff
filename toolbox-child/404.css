@@ -1,0 +1,25 @@
+#content{
+    float: none !important;
+    height: 100%;
+    margin-bottom: 1.9%;
+    margin-top: 2.3%;
+    overflow: visible !important;
+    position: relative;
+}
+#image404{
+	width:100%;
+	 position: absolute;
+}
+#header-widget-area{
+	display:none;
+}
+#clearfix_404{
+   display: block;
+    padding-top: 18.2%;
+}
+#text_404{
+	left: 3%;
+    position: absolute;
+    top: 21%;
+    z-index: 15;
+}

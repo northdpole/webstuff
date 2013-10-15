@@ -1,0 +1,354 @@
+@media screen and (min-width: 2000px){
+/*body #page #branding {font-size:18px;}*/
+span #misc .textwidget{margin-top:15%;}
+    div #foot4
+    {
+        width:90%;
+        font-size:1.8em;
+    }
+    div #foot5
+    {
+        margin-top:-3%;
+    }
+    div #foot2
+    {font-size:1.8em;}
+}
+@media screen and (min-width: 1900px){
+/*body #page #branding {font-size:18px;}*/
+span #misc .textwidget{margin-top:20%;}
+    div #foot4
+    {
+        width:88%;
+        font-size:1.7em;
+    }
+    div #foot5
+    {
+        margin-top:-4%;
+    }
+    div #foot2 {font-size:1.7em;}
+}
+@media screen and (max-width: 1899px){
+/*body #page #branding {font-size:17px;}*/
+span #misc .textwidget{margin-top:15%;}
+    div #foot4
+    {
+        width:85%;
+        font-size:1.5em;
+    }
+    div #foot5
+    {
+        margin-top:-3.7%;
+    }
+    div #foot2 {font-size:1.5em;}
+}
+@media screen and (max-width: 1650px)
+{
+/*#page #branding #misc{font-size:16px;}*/
+/*#megaUber > li > a > span.wpmega-link-title{font-size:1.2em;}*/
+    div #foot4
+    {
+        width:85%;
+        font-size:1.4em;
+    }
+    div #foot5
+    {
+        margin-top:-4%;
+    }
+
+
+}
+
+
+@media screen and (max-width: 1400px){
+#page{}
+span #misc .widget_text{float:right;}
+/*#page #branding{font-size:13px;}*/
+#megaUber > li > a > span.wpmega-link-title{font-size:1em;}
+div #foot4
+    {
+        width:85%;
+        font-size:1.3em;
+    }
+     div #foot5
+    {
+        margin-top:-5%;
+    }   
+
+}
+@media screen and (max-width : 1280px){
+/*span #misc{width:19.1%;bottom:16%;}*/
+span #misc .textwidget{margin-top:15%;}
+#branding{font-size:14px;}
+/*#megaUber > li > a > span.wpmega-link-title{font-size:1em;}*/
+div #foot4
+    {
+        width:85%;
+        font-size:1.2em;
+    }
+
+}
+@media screen and (max-width : 1212px){
+
+/*span #misc{width:19.1%;bottom:16%;}
+span #misc .widget_search{width:100%;margin-top:3.9%;}*/
+
+/*Header*/
+span #misc .widget_text{float:right;}
+/*#page #branding{font-size:10px;}*/
+/*#megaUber > li > a > span.wpmega-link-title{font-size:0.9em;}*/
+
+/* Footer */
+div #foot4
+    {
+        width:84%;
+        font-size:1.1em;
+    }
+        div #foot5
+    {
+        margin-top:-5%;
+    }
+}
+@media screen and (max-width : 1191px){
+/*#page #branding{font-size:12px;}*/
+#megaUber > li > a > span.wpmega-link-title{font-size:0.9em;}
+
+}
+@media screen and (max-width : 1127px){
+/*#page #branding{font-size:11px;}*/
+#megaUber > li > a > span.wpmega-link-title{font-size:0.9em;}
+
+span #misc .textwidget{
+	display:none;
+}
+div #footer-menu #press{
+	display:inline-block;
+}
+
+}
+@media screen and (max-width : 1066px){
+#megaUber > li > a > span.wpmega-link-title{font-size:0.9em;}
+/*#page #branding #misc{font-size:11px;}*/
+#sfpw .sfpw-text{height:13em;}
+    
+    div #foot4 {
+         font-size: 0.7em;
+         width: 80%;
+    }
+    
+    div #foot5
+    {
+        margin-top:-5.5%;
+    }
+
+}
+
+@media screen and (max-width : 1024px){
+body #page {
+    height:100%;
+    left:-29.8%;
+    margin:0;
+    position:relative;
+    width:157.3%;
+            }
+#branding{font-size:16px;}
+div #foot4
+    {
+        width:85%;
+        font-size:1.5em;
+    }
+div #foot5{margin-top:-4.5%;}  
+div #foot2{font-size:1.5em;}
+}
+
+}
+@media screen and (max-width : 918px){
+/*#page #branding #misc{font-size:11px;}
+#megaUber > li > a > span.wpmega-link-title{font-size:0.5em;}*/
+#sfpw .sfpw-text{height:13em;}
+    
+div #foot4
+    {
+        width:85%;
+        font-size:1.1em;
+    }
+div #foot5{margin-top:-4.5%;}  
+div #foot2{font-size:1.1em;}
+}
+
+}
+
+@media screen and (max-width : 845px){
+#branding #top-menu{width:46%;}
+}
+@media screen and (max-width : 828px){
+#branding #top-menu{width:47%;}
+}
+@media screen and (max-width : 809px){
+#branding #top-menu{width:49%;}
+div #foot4
+    {
+        width:85%;
+        font-size:1.1em;
+    }
+div #foot5{margin-top:-4.5%;}  
+div #foot2{font-size:1.1em;}
+}
+@media screen and (max-width : 778px){
+
+#branding #top-menu li {
+    margin:0;
+      padding:0.6% 2% 0;
+}
+#branding #top-menu li:nth-child(3) {
+    clear:both;
+    margin-right:3%;
+}
+    
+#branding #top-menu{top:-1%;}
+#top-menu .sub-menu li{display:none;}
+
+span #misc{width:35.1%;bottom:10%;}
+span #misc .widget_search{margin-top: 3.9%;width: 70%;}
+span #misc .widget_text{float:left; margin-top:5%;font-size:1.1em;}
+div #foot4
+    {
+        width:85%;
+        font-size:1em;
+    }
+div #foot5{margin-top:-5%;}  
+div #foot2{font-size:1em;}   
+
+}
+@media screen and (max-width : 705px){
+
+span #misc .widget_text{
+	display:none;
+}
+div #footer-menu #press{
+	display:inline-block;
+}
+
+div #foot4
+    {
+        width:80%;
+        font-size:1em;
+    }
+div #foot5{margin-top:-7%;}  
+div #foot2{font-size:1em;}
+
+}
+@media screen and (max-width:568px){
+#page #branding{font-size:14px;}
+#branding #top-menu li {
+	margin:0 14% 0 0;
+	padding:1% 2% 0;
+}
+#branding #top-menu li:nth-child(3) {
+    clear:both;
+    margin-right:17%;
+}
+
+div #foot4
+    {
+        width:85%;
+        font-size:1.1em;
+    }
+div #foot5{margin-top:-4.5%;}  
+div #foot2{font-size:1.1em;}
+
+}
+@media screen and (max-width:462px){
+#branding #clear{
+	padding-top:11.6%;
+}
+#page #branding #logo-img{
+	margin-right: 0;
+	width:43%;
+}
+#branding #top-menu{
+	width:40%;
+}
+#main #header-widget-area{
+	display:none;
+}
+#branding #top-menu li {
+	margin:0 8% 0 0;
+	padding:1% 2% 0;
+}
+#branding #top-menu li:nth-child(3) {
+    clear:both;
+    margin-right:11%;
+}
+#page #branding{font-size:13px;}
+
+#sfpw .sfpw-text{height:15em;}
+
+div #foot4
+    {
+        width:70%;
+        font-size:1em;
+    }
+div #foot5{margin-top:-10%;}  
+div #foot2{font-size:1em;}
+}
+@media screen and (max-width : 360px){
+	#header-wrapper{margin-bottom: 2%;}
+	.wp-caption{float:none; clear:both; margin: 0 auto;}
+	#gallery{display:none;}
+	div #foot4
+    {
+        width:65%;
+        font-size:0.9em;
+    }
+div #foot3
+    {
+        display:none;
+    }
+div #foot2
+    {
+        font-size:0.9em;
+    }
+div #foot5{margin-top:-11%}
+	
+	
+}
+@media screen and (max-width:320px){
+#branding #clear{
+	padding-top:11.6%;
+}
+#page #branding #logo-img{
+	margin-right: 0;
+	width:43%;
+}
+#branding #top-menu{
+	width:70%;
+}
+#main #header-widget-area{
+	display:none;
+}
+#branding #top-menu li {
+	margin:0 8% 0 0;
+	padding:1% 2% 0;
+}
+#branding #top-menu li:nth-child(3) {
+    clear:both;
+    margin-right:11%;
+}
+/*#page #branding{font-size:13px;}*/
+#sfpw .sfpw-text{height:15em;}
+
+div #foot4
+    {
+        width:60%;
+        font-size:0.9em;
+    }
+div #foot3
+    {
+        display:none;
+    }
+div #foot2
+    {
+        font-size:0.9em;
+    }
+div #foot5{margin-top:-15%}
+}

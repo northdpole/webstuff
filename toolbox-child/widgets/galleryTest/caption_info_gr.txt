@@ -1,0 +1,12 @@
+#This is the example "filename" => "image caption" => "info text";
+
+01.jpg => Λίμνη Στυμφαλίας => Ο Ηρακλής σκότωσε τις Στυμφαλίδες Όρνιθες σε αυτή τη περιοχή => http://www.mythicalpeloponnese.gr/blog/hercules-birds/;
+02.jpg => Mάνη επιστροφή στα βασικά  => Η παραδοσιακή Μάνη έχει πολλά να προσφέρει => http://www.mythicalpeloponnese.gr/blog/driving-mani/;
+03.jpg => Αναρρίχηση => Ανεξερεύνητες περιοχές βράχων από γρανίτη σας περιμένουν =>http://www.mythicalpeloponnese.gr/blog/σκαρφαλώνοντας-στη-γειτονιά-του-καιά;
+acropolis.jpg => Acropolis Rally => Εδώ χτυπά η καρδιά του Παγκόσμιου Πρωταθλήματος Ράλλυ! => http://www.mythicalpeloponnese.gr/blog/%CE%BF%CE%B9-%CE%B8%CE%B5%CE%BF%CE%AF-%CF%84%CE%BF%CF%85-%CF%80%CE%B1%CE%B3%CE%BA%CE%BF%CF%83%CE%BC%CE%AF%CE%BF%CF%85-%CE%B1%CE%BD%CE%B1%CE%BA%CE%B1%CE%BB%CF%8D%CF%80%CF%84%CE%BF%CF%85/;
+09.jpg => Οινοπαραγωγική Νεμέα => Από τα σταφύλλια της Νεμέας παράγεται χίλια χρόνια τώρα το Αγιωργήτικο =>http://www.mythicalpeloponnese.gr/blog/discover-agiorgitiko/;
+10.jpg => Απογευματινό ρομάντζο => Οι αμμώδεις παραλίες της Μεσσηνίας προσφέρουν το σκηνικό για μια ρομαντική απόδραση => http://www.mythicalpeloponnese.gr/blog/διανυκτέρευση-στην-αμμουδιά/;
+13.jpg => Αρχαία Μεσσήνη =>Τα λευκά μαρμάρινα ερείπια της πόλης της Μεσσήνης => http://www.mythicalpeloponnese.gr/blog/ένα-πάρκο-μάλαμα/;
+14.jpg => Ανοιξιάτικη Νέδα => Μια γέφυρα πάνω από τον ποταμό Νέδα με θέα αυτό που κόβει την ανάσα => http://www.mythicalpeloponnese.gr/blog/κολύμπι-στη-νέδα-το-μοναδικό-θηλυκό/;
+15.jpg => Όρος Πάρνωνας => Μαγευτικες εμπειρίες πάνω στο βουνό Πάρνωνας  => http://www.mythicalpeloponnese.gr/blog/στη-λεπίδα-του-πάρνωνα/;
+16.jpg => Χερσόνησος της Mονεμβασιάς => Τα τείχη της Μονεμβασιάς => http://www.mythicalpeloponnese.gr/blog/πρωινό-χαλαρό-περπάτημα-στην-κορυφή-τ/;

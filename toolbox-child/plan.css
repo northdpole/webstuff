@@ -1,0 +1,32 @@
+/*
+ * Styling the plan content sfpw
+ * 
+ * */
+ul #sfpw{
+	width:100%;
+}
+ul #sfpw li{
+	width:46.6%;
+}
+#sfpw .sfpw-text {
+    height: 20em;
+}
+#sfpw .sfpw-text li img {
+    width: 5%;
+}
+.sfpw-morelink {
+    display: none;
+}
+.entry-content h1{
+	text-align:left;
+}
+#access #megaUber>li:nth-child(3){
+	background: none repeat scroll 0 0 rgba(246, 150, 138, 0.35);
+}
+/*#top-menu #access .sub-menu li{
+    background:none repeat scroll 0 0 rgba(38, 38, 38, 0.698);
+}
+#top-menu #access .sub-menu li:hover{
+ background:none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+}
+*/

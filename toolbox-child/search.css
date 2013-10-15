@@ -1,0 +1,138 @@
+
+#featured_experiences {
+    margin-top: 3.9%;
+}
+#featured_experiences ul {
+    padding-left: 0;
+}
+#featured_experiences h2 {
+    margin: 0;
+}
+.sfpw-li-wrapper {
+    margin-top: 0;
+    overflow: hidden;
+}
+#sfpw-wrapper {
+    color: white;
+    font-family: 'Ubuntu',sans-serif !important;
+    margin-left: 0;
+    margin-top: -2%;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    width: 100.1%;
+}
+#sfpw {
+    height: 100%;
+    margin: 0 auto;
+    overflow: auto;
+    padding-bottom: 1.4%;
+    padding-left: 0;
+    padding-top: 2.4%;
+    position: relative;
+    width: 84%;
+}
+#sfpw li {
+    box-shadow: 0 0 10px #696969;
+    display: inline-block;
+    float: left;
+    margin-bottom: 4.9%;
+    margin-left: 5%;
+    width: 33%;
+}
+#sfpw a:link {
+    color: white;
+    text-decoration: none;
+}
+#sfpw a:visited {
+    color: white;
+    text-decoration: none;
+}
+#sfpw a:hover {
+    color: white;
+    text-decoration: underline;
+}
+#sfpw a:active {
+    color: white;
+    text-decoration: underline;
+}
+#sfpw h4 {
+    font-size: 1.3em;
+    font-weight: normal;
+    margin: 0;
+    padding-bottom: 6%;
+    padding-top: 6%;
+    text-decoration: none;
+}
+#sfpw span {
+}
+#sfpw .sfpw-text-wrapper {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.65);
+}
+
+#sfpw .sfpw-text a {
+}
+#sfpw p {
+    margin: 0 0 3%;
+    text-decoration: none;
+}
+#sfpw img {
+    height: auto;
+    max-height: 100%;
+    max-width: 100% !important;
+    position: relative;
+    width: 100%;
+}
+#sfpw .sfpw-date {
+    display: none;
+}
+.sfpw-text .sfpw-more {
+    width: 5% !important;
+}
+.sfpw-text .sfpw-morelink {
+    color: black !important;
+    margin-left: 0;
+    display: block;
+}
+#sfpw li:nth-child(2n+1) {
+    margin-right: 5%;
+}
+#sfpw li:nth-last-child(2) {
+    margin-bottom: 0;
+}
+#sfpw li:last-child {
+    margin-bottom: 0;
+}
+.sfpw-li-clear {
+    padding-top: 5%;
+}
+#sfpw .sfpw-text li {
+    box-shadow: none;
+    clear: both;
+    color: black;
+    display: list-item;
+    float: none;
+    list-style: disc inside url("images/arrow_list.gif");
+    margin: 5.5% 0 5% 6%;
+    width: 100%;
+}
+#content {
+    overflow: visible;
+}
+.search-page-header h1 {
+    text-align: center;
+}
+#sfpw .sfpw-text {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.65);
+    color: white;
+    font-size: 0.75em;
+    margin-top: -2%;
+    text-align: left;
+    width: 100%;
+    color: white;
+    height: 16em;
+    padding: 4%;
+    text-align: left;
+    width: 92%;
+
+}

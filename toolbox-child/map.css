@@ -1,0 +1,284 @@
+.flag-img{
+	 display: block;
+    	 margin: auto;
+
+}
+
+.maptext{
+    	color: #FFFFFF;
+    	display: block;
+    	font-family:Ubuntu, sans-serif;;
+    	font-size: 12px;
+    	padding: 4% 9%;
+    	text-align: center;
+	font-weight:600;
+	margin-top:2%;
+ 	text-shadow: 1px 1px 3px #696969;    
+}
+
+#mapContainer{
+	background-size:cover;
+	display:inline-block;
+	margin-left:1%;
+	margin-top:1.4%;
+	width:26.3%;
+}
+#map{
+	display:block;
+	position:relative;
+	/*width:60%;*/
+	/*top:30px;*/
+}
+#wrapA {
+    left: 62%;
+    position: absolute;
+    top: 22%;	
+}
+#flagA{
+	position:absolute;
+	display:none;
+}
+#wrapB {
+    left: 55%;
+    position: absolute;
+    top: 38%;
+}
+#flagB{
+	position:absolute;
+	display:none;
+
+	}
+#wrapC {
+    left: 15%;
+    position: absolute;
+    top: 78%;
+}
+#flagC{
+	position:absolute;
+	display:none;
+
+	}
+#wrapD {
+    left: 42%;
+    position: absolute;
+    top: 92%;
+}
+#flagD{
+	position:absolute;
+	display:none;
+
+}
+#wrapE {
+    left: 42%;
+    position: absolute;
+    top: 73%;
+}
+#flagE{
+	position:absolute;
+	display:none;
+
+}
+#wrapF {
+    left: 62%;
+    position: absolute;
+    top: 90%;
+    width:42%;
+}
+#flagF{
+	position:absolute;
+	display:none;
+
+}
+#wrapG {
+    left: 11%;
+    position: absolute;
+    top: 50%;
+}
+#flagG{
+	position:absolute;
+	display:none;
+
+}
+#wrapH {
+    left: 62%;
+    position: absolute;
+    top: 42%;
+    width:42%;
+}
+#flagH{
+	position:absolute;
+	display:none;
+
+}
+#wrapI {
+    left: 36%;
+    position: absolute;
+    top: 54%;
+}
+#flagI{
+	position:absolute;
+	display:none;
+
+}
+#wrapJ {
+    left: 57%;
+    position: absolute;
+    top: 42%;
+}
+#flagJ {
+	position:absolute;
+	display:none;
+
+}
+#wrapK {
+    left: 62%;
+    position: absolute;
+    top: 42%;
+}
+#flagK{
+	position:absolute;
+	display:none;
+
+}
+#wrapL {
+    left: 11%;
+    position: absolute;
+    top: 46%;
+}
+#flagL{
+	position:absolute;
+	display:none;
+
+}
+#wrapM {
+    left: 38%;
+    position: absolute;
+    top: 62%;
+}
+#flagM{
+	position:absolute;
+	display:none;
+
+}
+
+.flag{	display:none;
+	width:100%;
+	overflow: hidden;
+}
+.wrap{
+	height:19%;
+	width:31.9%;
+}
+#mapImg{
+	display:block;
+	width:100%;
+}
+
+/* Mitsos rules */
+
+@media screen and (max-width: 1920px){
+		.wrap {
+    			height: 19%;
+   			width:  21.2%;
+		      }
+}
+@media screen and (max-width: 1783px){
+		.wrap {
+    			height: 19%;
+   			width:  22.9%;
+		      }
+}
+@media screen and (max-width: 1765px){
+		.wrap {
+    			height: 19%;
+   			width:  23.2%;
+		      }
+}
+@media screen and (max-width: 1685px){
+		.wrap {
+    			height: 19%;
+   			width:  24.2%;
+		      }
+}
+@media screen and (max-width: 1626px){
+		.wrap {
+    			height: 19%;
+   			width:  25.7%;
+		      }
+}
+@media screen and (max-width: 1591px){
+		.wrap {
+    			height: 19%;
+   			width:  25.5%;
+		      }
+}
+@media screen and (max-width: 1490px){
+		.wrap {
+    			height: 19%;
+   			width:  27%;
+		      }
+}
+@media screen and (max-width: 1458px){
+		.wrap {
+    			height: 19%;
+   			width:  27.7%;
+		      }
+}
+@media screen and (max-width: 1400px){
+		.wrap {
+    			height: 19%;
+   			width:  29.5%;
+		      }
+}
+@media screen and (max-width: 1280px){
+		.wrap {
+    			height: 19%;
+   			width:  31.9%;
+		      }
+}
+@media screen and (max-width: 1201px){
+		.wrap {
+    			height: 19%;
+   			width:  33.5%;
+		      }
+}
+@media screen and (max-width: 1200px){
+		.wrap {
+    			height: 19%;
+   			width:  21.7%;
+		      }
+		      
+}
+@media screen and (max-width: 1024px){
+		.wrap {
+    			height: 19%;
+   			width:  25.3%;
+		      }
+		      
+}
+@media screen and (max-width: 960px){
+		.wrap {
+    			height: 19%;
+   			width:  27%;
+		      }
+}
+
+@media screen and (max-width: 800px){
+		.wrap {
+    			height: 19%;
+   			width:  32.5%;
+		      }
+}
+
+@media screen and (max-width: 740px){
+		.wrap {
+    			height: 19%;
+   			width:  35%;
+		      }
+}
+@media screen and (max-width: 640px){
+		.wrap {
+    			height: 19%;
+   			width:  41%;
+		      }
+}

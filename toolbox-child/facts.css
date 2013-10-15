@@ -1,0 +1,109 @@
+.entry-content h1{
+	text-align:left;
+}
+#access #megaUber>li:nth-child(1){
+	background: none repeat scroll 0 0 rgba(157, 220, 249, 0.35);
+}
+#top-menu #access .sub-menu li{
+	/*background:none repeat scroll 0 0 rgba(38, 38, 38, 0.698);*/
+}
+#top-menu #access .sub-menu li:hover{
+	/*background:none repeat scroll 0 0 rgba(255, 255, 255, 0.2);*/
+}
+#facts_promo_upper,#facts_promo_lower{
+}
+#facts_promo_upper ul{
+	margin-left:11.2%;
+	margin-right:11.5%;
+	margin-top:0;
+	margin-bottom:0;
+	padding-top:3.1%;
+	padding-bottom:2.5%;
+	/*width: 94.5%;*/
+}
+#facts_promo_lower ul{
+	margin-left:11.2%;
+	margin-right:11.5%;
+	margin-top:0;
+	margin-bottom:0;
+	padding-bottom:3.1%;
+	/*width: 74.8%;*/
+}
+#facts_promo_upper ul,#facts_promo_lower ul{
+	overflow:hidden;
+}
+#facts_promo_upper ul li,#facts_promo_lower ul li{
+	/*background-color: #000000;*/
+	box-shadow: 0 0 10px #696969;
+	display: inline-block;
+	float: left;
+	margin-right:3.8%;
+	width: 16.9%;
+}
+#facts_promo_lower ul li,#facts_promo_upper ul li{
+	width:22%;
+}
+#facts_promo_upper ul li:last-child,#facts_promo_lower ul li:last-child{
+	margin-right:0;
+}
+.facts_promo_caption_wrapper{
+   display: table;
+   width: 100%;
+}
+#facts_promo_upper ul li .facts_promo_caption,
+#facts_promo_lower ul li .facts_promo_caption{
+	color: white;
+	height: 3em;
+	text-align: center;
+	display: table-cell;
+	padding:0 2%;
+	vertical-align: middle;
+	text-shadow: 2px 1px #696969;
+}
+#facts_promo_upper ul img,#facts_promo_lower ul img{
+	width:100%;
+	height:auto;
+}
+#facts_promo_upper ul{}
+
+
+.color-849784{
+background-color:#849784;
+}
+.color-c2b088{
+background-color:#c2b088;
+}
+.color-beae8a{
+background-color:#849784;
+}
+.color-a5b0b4{
+	background-color:#a5b0b4;
+}
+.color-d3a49c{
+	background-color:#d3a49c;
+}
+.color-c9b092{
+	background-color:#c9b092;
+}
+.color-b58f8e{
+	background-color:#b58f8e;
+}
+.color-9498a1{
+	background-color:#9498a1;
+}
+.color-999798{
+	background-color:#999798;
+}
+.color-8a9b8b{
+	background-color:#8a9b8b;
+}
+/*Mitsos Rules */
+
+#content{
+	background: scroll none repeat 0 0 rgba(255 , 255 , 255 , 0.8);
+}
+@media screen and (max-width:462px){
+		#main #header-widget-area{display:block;}
+		.facts_promo_caption_wrapper{display:none;}
+		.intro-text{display:none;}
+}

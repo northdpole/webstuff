@@ -1,0 +1,119 @@
+#carousel{
+	left:0%;
+	position:relative;
+}
+#wrapper{
+	background:url("galleryBack.png");
+	width:90.9%;
+	height:221px;
+	left:5%;
+	margin-top:2%;
+	/*overflow:hidden;*/
+	position:relative;
+	/*left:180px;*/
+}
+
+ul{
+	/*height:100%;*/
+	/*width:100%;*/
+}
+
+.galleryThumbnail{
+	width:100%;
+	height:100%;
+	/*width: 188px;
+	height:120px;*/
+}
+#wrapper1{
+	/*overflow:hidden;
+	height:450px;
+	width:1420px;
+	border:medium dotted;
+	position:absolute;
+	left:100px;*/
+	height:inherit;
+	width:inherit;
+}
+.info{
+	display:none;
+	background:none repeat scroll 0 0 black;
+	color:white;
+	position:absolute;
+	top:0;
+	width:188px;
+	height:120px;
+}
+#slides{
+	left:3%;
+	overflow:hidden;
+	position:relative;
+	width:94%;
+}
+
+#slides ul{
+	list-style:none outside none;
+	padding:0;
+	/*height:238px;*/
+	margin-bottom:23px;
+	margin-top:23px;
+	/*overflow:hidden;*/
+	width:128%;
+	/*width:100%;*/
+}
+.upper{
+	/*height:200px;
+	overflow:hidden;
+	width:100%;*/
+	position:relative;
+	/*left:0px;*/
+}
+.lower1{
+	bottom:-37px;
+	height:200px;
+	left:50px;
+	overflow:hidden;
+	position:relative;
+	width:100%;
+}
+#slides li{
+	float:left;
+	/*padding-right:33px;*/
+	padding-bottom:5px;
+	width:13%;
+	height:59%;
+}
+
+.op40{
+	background:url("text40op.png");
+}
+.op85{
+	background:url("text85op.png");
+}
+.galleryThumbContainer{
+	display:block;
+	font:12pt ubuntu-light;
+	height:55px;
+	width:188px;
+}
+.galleryExpTitle{
+padding:12px;
+}
+
+#footer{
+	bottom:10px;
+	height:40px;
+	position:absolute;
+}
+
+#buttons img{
+position:absolute;
+top:90px;
+
+}
+#buttons #prev img{
+position:absolute;
+left:29px;}
+#buttons #next img{
+position:absolute;
+right:21px;
+}

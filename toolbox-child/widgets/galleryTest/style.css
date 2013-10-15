@@ -1,0 +1,149 @@
+#carousel{
+	/*left:0%;
+	position:relative;*/
+}
+#wrappernew1{
+	background:url("galleryBack.png");
+	width:100%;
+	/*height:221px;*/
+	/*left:5%;*/
+	/*margin-top:2%;*/
+	/*overflow:hidden;*/
+	position:relative;
+	/*left:180px;*/
+}
+#slides .galleryThumbnail{
+	height:auto;
+	max-width:100%;
+}
+#wrapper1{
+	/*overflow:hidden;
+	height:450px;
+	width:1420px;
+	border:medium dotted;
+	position:absolute;
+	left:100px;*/
+	height:inherit;
+	width:inherit;
+}
+#slides .info{
+	background:none repeat scroll 0 0 black;
+	color:white;
+	display:none;
+	height:100%;
+	position:absolute;
+	top:0;
+	width:17.3%;
+}
+#slides{
+	left:3%;
+	overflow:hidden;
+	position:relative;
+	width:94%;
+}
+
+#slides ul{
+	height:100%;
+    list-style:none outside none;
+    margin-bottom:3%;
+    margin-top:3%;
+    overflow:hidden;
+    padding:0;
+    width:128%;
+}
+#slides .upper{
+	/*height:200px;
+	overflow:hidden;
+	width:100%;*/
+	position:relative;
+	/*left:0px;*/
+}
+.lower1{
+	bottom:-37px;
+	height:200px;
+	left:50px;
+	overflow:hidden;
+	position:relative;
+	width:100%;
+}
+#slides li{
+	float:left;
+	width:13.5%;
+}
+
+#slides .op40{
+	background:url("text40op.png");
+}
+#slides .op85{
+	background:url("text85op.png");
+}
+#slides .galleryThumbContainer{
+		display:block;
+		height:55px;
+		margin-top:-2%;
+}
+.galleryExpTitle{
+padding:11px;
+}
+
+#footer{
+	bottom:10px;
+	height:40px;
+	position:absolute;
+}
+
+#buttons img{
+position:absolute;
+top:90px;
+
+}
+#buttons #prev img{
+position:absolute;
+left:29px;}
+#buttons #next img{
+position:absolute;
+right:21px;
+}
+.gallery_more{
+	display:inline-block;
+	float:right;
+}
+.gallery_caption{
+	display:block;
+	height:82%;
+	margin:9% 5%;
+	text-align:left;
+	width:90%;
+}
+
+/* Mitsos Rules */
+#wraptextfeatured1{
+	color: #333333;
+    	font-family: Ubuntu Light,sans-serif;
+    	font-size: 1.0em;
+    	font-weight: normal;
+   	text-align: left;
+   	text-shadow: 1px 1px 3px #696969;
+	left: 2%;
+   	margin-left: 1%;
+    margin-top: 0.5%;
+    	position: absolute;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+ #wraptextfeatured1{
+	color: #333333;
+    	font-family: Ubuntu Light,sans-serif;
+    	font-size: 1.0em;
+    	font-weight: normal;
+   	text-align: left;
+   	text-shadow: 1px 1px 3px #696969;
+	left: 2%;
+   	margin-left: 1%;
+        margin-top: 3%;
+    	position: absolute;
+
+}
+}
+

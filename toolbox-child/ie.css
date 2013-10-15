@@ -1,0 +1,4 @@
+#slides .galleryThumbContainer:nth-child(n){
+	background:none!important;
+	background-color:#79909A!important;
+}

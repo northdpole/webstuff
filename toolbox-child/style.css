@@ -1,0 +1,310 @@
+
+/*@import "../toolbox/style.css";*/
+@import "reset.css";
+@import "extra.css";
+@import "featured.css";
+@import "gallery.css";
+@import "media.css";
+@import "main_menu.css";
+@import "sitemap.css";
+@import "footer.css";
+/*@import url(http://fonts.googleapis.com/css?family=Ubuntu);*/
+@font-face {
+    font-family: Ubuntu;
+    src: url(http://fonts.googleapis.com/css?family=Ubuntu);
+    font-weight:400;
+}
+body {
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: url("images/background.png");
+    background-origin: padding-box;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Ubuntu Light",sans-serif;
+    height: 100%;
+    line-height:100%;
+    width: 99.9%;
+}
+#page {
+    display:block;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: relative;
+    width: 99.2%;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+#page {font-size:17px;}
+}
+#main {
+    clear: both;
+    height: 100%;
+}
+#main .widget-area {
+}
+#header1 {
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    width: 33%;
+    margin-top:1%;
+}
+#leftbg {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 110.2%;
+    z-index: -1;
+}
+#rightbg {
+    bottom: 0;
+    height: 100%;
+    position: absolute;
+    right: -1.2%;
+    top: 0;
+    width: 100.9%;
+    z-index: -1;
+}
+#header2-wrapper {
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    width: 69%;
+    margin-top:1%;
+}
+#header2 {
+    display: block;
+    margin-left: 7.3%;
+    width: 65%;
+}
+#branding {
+    color: white;
+    font-family: "Ubuntu Light",sans-serif;
+    height: 0.1%;
+    left: -0.2%;
+    position: relative;
+    width: 100.2%;
+}
+.header-clear1 {
+    clear: both;
+    display: block;
+}
+.header-clear2 {
+    clear: both;
+    display: block;
+}
+#header1-clear1 {
+    margin-top: 2%;
+}
+#header2-clear1 {
+    margin-top: 0;
+}
+#branding #logo-img {
+    float: right;
+    margin-right: 6%;
+    padding-top: 0.5%;
+    width: 32%;
+}
+#branding #logo-img img {
+    width: 100%;
+}
+#branding #logo-img a {
+    display: block;
+}
+#misc {
+    bottom: 17%;
+    display: inline-block;
+    float: right;
+    overflow: hidden;
+    position: absolute;
+    right: 27.8%;
+    width: 22.1%;
+}
+#misc #misc-clear {
+}
+#social {
+    float: right;
+    margin-top: 3.7%;
+}
+#social img {
+	max-width:100%;
+}
+#secondary {
+margin-bottom: -1%;
+}
+#misc aside {
+    font-size: 0.8em;
+    display: inline-block;
+}
+#misc .widget_text, #misc .textwidget {
+    display: inline-block;
+    float: left;
+    margin-top: 15%;
+    font-size:1.1em;
+}
+#misc aside #searchform {
+    margin: 0;
+    overflow: auto;
+}
+#misc aside #searchform #s {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+    border: 1px none;
+    color: white;
+    width: 100% !important;
+}
+input[type="search"] {
+}
+#misc .widget_search {
+    display: inline-block;
+    float: right;
+    margin-top: 8%;
+    width: 38%;
+}
+#misc aside #searchsubmit {
+    display: none;
+}
+#content {
+    left: 9.3%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 79.8%; 
+}
+#header-widget-area {
+    float: none !important;
+    height: 100%;
+    margin-bottom: 2.3%;
+    margin-left: 20.7%;
+    margin-top: 3.3%;
+    overflow: visible !important;
+    position: relative;
+    width: 60.1% !important;
+}
+#primary {
+    float: none;
+    left: 5%;
+    margin-bottom: 1.9%;
+    margin-left: 8.7%;
+    margin-top: 0;
+    position: relative;
+    width: 75.3%;
+}
+#page-clear-upper {
+}
+#page-clear-lower {
+}
+div .entry-content:first-child {
+    display: none;
+}
+.entry-meta {
+    display: none;
+}
+#clear {
+    clear: both;
+    left: 0;
+    margin-top: 0;
+    padding-top: 8.8%;
+    position: relative;
+    width: 1%;
+    z-index: -1;
+}
+#footer{
+font-family: "Ubuntu Light",sans-serif;
+}
+
+#footer-menu #press {
+    display: none;
+}
+#footer-wrapper {
+    font-size:0.5em;
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.596);
+    margin-left: 20.7%;
+    overflow: auto;
+    width: 60.2%;
+}
+#foot2 {
+	display:block;
+	font-family: "Ubuntu Light",sans-serif;
+    
+}
+
+#foot2 a{color:#A0223A;}
+
+#foot3 {
+    display: block;
+    font-family: "Ubuntu Light",sans-serif;
+    margin-right: 1%;
+    float: left;
+}
+
+#foot4 {
+    display: block;
+    font-family: "Ubuntu Light",sans-serif;
+    width:84%;
+    font-size: 1.3em;
+    line-height:1em;
+    margin-left: 1%;
+    margin-top: 0%;
+}
+
+#foot5 {
+    display: block;
+    font-family: "Ubuntu Light",sans-serif;
+    float:right;
+    margin-top:-5%;  
+}
+
+#content nav {
+	height:1.3em;
+	/*overflow: auto;*/
+    font-family: "Ubuntu Light",sans-serif;
+}
+.widget {
+    display:block;
+}
+.widget-area .widget_search {
+    overflow:hidden;
+}
+#searchform label {
+    display:none;
+}
+.screen-reader-text, .assistive-text {
+    clip:rect(1px, 1px, 1px, 1px);
+    position:absolute !important;
+}
+#searchform input#s {
+    width:60%;
+}
+.widget-area .widget_search input {
+    float:left;
+}
+.widget-area .widget_search input {
+    float:left;
+}
+.entry-content {
+/*    overflow: auto;*/
+}
+#footer-stuff{
+	display:inline-block;
+	margin:1%;
+}
+#footer-menu{
+
+}
+#respond{
+	display:none;
+}
+
+/*Mitsos Rules */
+
+#content div.post 
+{
+    background:none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+}

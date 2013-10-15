@@ -1,0 +1,12 @@
+#This is the example "filename" => "image caption" => "info text";
+
+01.jpg => Stymfalia Lake => The Stymfalian birds were slain here by Hercules => http://www.mythicalpeloponnese.gr/en/the-birds-of-heracles/;
+02.jpg => Mani Back to basics  => Traditional Mani has so much to offer =>  http://www.mythicalpeloponnese.gr/en/driving-around-mani/;
+03.jpg => Rockclimbing => Granite unexplored walls await you => http://www.mythicalpeloponnese.gr/en/climbing-on-kaiadas/;
+acropolis.jpg => Acropolis Rally => World Rally Championship’s heart beats here! => http://www.mythicalpeloponnese.gr/en/the-rally-of-gods-explores-the-peloponnese/;
+09.jpg => Wine making Nemea => From Nemea’s wine grapes of the millennium old “Aghiorghitiko” =>http://www.mythicalpeloponnese.gr/en/discovering-the-agiorgitiko-grape/;
+10.jpg => Afternoon Romance => Sandy beaches of Messinia offer the scenery for a romantic escape => http://www.mythicalpeloponnese.gr/en/a-night-on-the-sand/;
+13.jpg => Ancient Messini =>The white marbled ruins of the rediscovered city of Messini => http://www.mythicalpeloponnese.gr/en/a-park-like-no-other/;
+14.jpg => Neda in Spring => A Bridge over the Neda River frames this breath taking scenery => http://www.mythicalpeloponnese.gr/en/swimming-in-neda-greeces-unique-and-mythical-river;
+15.jpg => Parnonas => Experience Mt. Parnonas with all your senses   => http://www.mythicalpeloponnese.gr/en/the-blade-of-parnonas/;
+16.jpg => Monemvasia Peninsula => Monemvasia fortified walls=> http://www.mythicalpeloponnese.gr/en/pilgrimage-to-monemvasia/;

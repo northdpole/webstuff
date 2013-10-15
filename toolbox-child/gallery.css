@@ -1,0 +1,89 @@
+#wrapper #slides ul {
+    font-family: 'Ubuntu',sans-serif !important;
+    font-size: 0.75em;
+    height: 13.3em;
+    left: -2.6%;
+    list-style: none outside none;
+    margin-bottom: 2.99%;
+    margin-top: 3%;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 127.6%;
+}
+#wrapper #slides li {
+    float: left;
+    margin-bottom: 10%;
+    width: 13.42%;
+}
+#slides .info {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.75) !important;
+    color: black !important;
+    text-align: center;
+}
+#carousel #wrapper {
+    left: 0;
+    /*margin-top: 2%;*/
+    position: relative;
+    overflow:hidden;
+    width: 99.9%;
+}
+#carousel #buttons #prev img {
+    left: -30px;
+    position: absolute;
+}
+#carousel #buttons #next img {
+    position: absolute;
+    right: -29px;
+}
+div#slides{
+	left:0;
+	margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: 94%;
+}
+#slides .galleryThumbContainer:nth-child(n) {
+    background-image: url("images/galleryTextBack.png");
+    background-size:cover;
+    background-image:linear-gradient(to left, rgba(113,135,145,0.8), rgba(113,135,145,1) 85%);
+background-image: -o-linear-gradient(to left, rgba(113,135,145,0.8), rgba(113,135,145,1));
+background-image: -moz-linear-gradient(to left, rgba(113,135,145,0.8), rgba(113,135,145,1) 85%);
+/*background-image: -webkit-linear-gradient(left,rgba(113,135,145,0.8), rgba(113,135,145,1) );*/
+background-image: -webkit-linear-gradient(left, #718791, #8098a2);
+/*background-image: -ms-linear-gradient(left, rgba(113,135,145,0.8), rgba(113,135,145,1) );*/
+background-image: -ms-linear-gradient(left, #718791, #8098a2); 
+filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr='#79909A', endColorstr='#718791');
+/*
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	right bottom,
+	color-stop(0.8, #2A503F),
+	color-stop(0 ,white)
+);*/
+}
+#wrapper #slides .galleryThumbContainer {
+    display: table;
+    margin-top: -3%;
+    width: 101%;
+}
+#wrapper #slides .info {
+    color: white;
+    display: none;
+    height:96%;
+    position: absolute;
+    top: 0;
+    width: 13.4%;
+}
+.galleryExpTitle{
+	display: table-cell;
+	padding:0;
+	text-align:center;
+    margin: 0 auto;
+    vertical-align: middle;
+    color:white;
+    font-weight:600;
+}
+
+

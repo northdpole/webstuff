@@ -1,0 +1,112 @@
+#top-menu a {
+    text-transform: uppercase;
+}
+#top-menu {
+    bottom: -0.5%;
+    color: white;
+    display: inline-block;
+    float: left;
+    font-size: 1.2em;
+    left: 0;
+    margin-left: 6.5%;
+    position: absolute;
+    width: 45%;
+}
+#access a {
+    color: white;
+}
+#top-menu li {
+}
+
+#access {
+    background: none repeat scroll 0 0 transparent;
+    margin-bottom: 0;
+    display:block;
+    float:left;
+    width:100%;
+}
+#access a {
+    display:block;
+    line-height:2em;
+    text-decoration:none;
+    padding: 0;
+}
+#access ul{
+	 list-style:none outside none;
+    margin:0;
+    padding-left:0;
+}
+#access ul li {
+    float: left;
+    margin: 0 2.5% 0.2% 0;
+    padding: 3%;
+    position: relative;
+    text-align: center;
+}
+
+#access ul ul {
+   display:none;
+    float:left;
+    left:0;
+    position:absolute;
+    z-index:99999;
+    top: 99.7%;
+    width: 112%;
+}
+#access .sub-menu li {
+    background: none repeat scroll 0 0 rgba(38, 38, 38, 0.698);
+    margin: 0 2.5% 0 0;
+    clear: both;
+    color: #FFFFFF;
+    font-family: Ubuntu Light,sans-serif;
+    font-size: 0.85em;
+    padding: 12%;
+    text-align: left;
+    text-shadow: 0 0 3px #000000;
+    width: 175%;
+}
+#access .sub-menu li li {
+    padding: 5.6% 5.6% 6.4%;
+    width: 78%;
+}
+#access .sub-menu li a {
+    text-transform: none;
+}
+#access .sub-menu li:hover {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+}
+
+#access li:hover > a, #access ul ul *:hover > a {
+    background: none repeat scroll 0 0 transparent !important;
+}
+#access ul ul a {
+    background: none repeat scroll 0 0 transparent !important;
+}
+#top-menu li:hover {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.2);
+}
+#menu-main-menu>li:nth-child(1):hover{
+	background: none repeat scroll 0 0 rgba(157, 220, 249, 0.35);
+}
+#menu-main-menu>li:nth-child(2):hover{
+	background: none repeat scroll 0 0 rgba(254, 242, 122, 0.35);
+}
+#menu-main-menu>li:nth-child(3):hover{
+	background: none repeat scroll 0 0 rgba(246, 150, 138, 0.35);
+}
+#menu-main-menu>li:nth-child(4):hover{
+	background: none repeat scroll 0 0 rgba(116, 197, 147, 0.35);
+}
+#access ul ul a {
+    font-weight:normal;
+    height:auto;
+    line-height:1em;
+}
+#access ul ul ul {
+    left:100%;
+    top:0;
+}
+#access ul ul a {
+    height:auto;
+    line-height:1em;
+}
