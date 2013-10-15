@@ -5,6 +5,10 @@ Show post images (either 1st image or the featured image)
 3 ways of display
 2 languanges
 
+Show post text ( sfpw-text-wrapper ) 
+ - get max length and change the others posts-text-wrapper with maximum value (Jquery)
+ Contributor: Giorgos Perreas(georgeperreas@gmail.com)
+
 Can display either everything from a category or specific posts
 
 Needs more documentation
